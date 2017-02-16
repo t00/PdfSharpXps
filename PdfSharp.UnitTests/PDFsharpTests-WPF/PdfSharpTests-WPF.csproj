@@ -150,7 +150,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\code\PdfSharp\PdfSharp-WPF.csproj">
+    <ProjectReference Include="..\..\PdfSharp\PdfSharp-WPF.csproj">
       <Project>{02FCC0BB-2AA2-43BA-8D2F-66D168B87A1D}</Project>
       <Name>PdfSharp-WPF</Name>
     </ProjectReference>
